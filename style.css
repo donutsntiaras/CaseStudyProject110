@@ -31,3 +31,7 @@ body{
 #mug{
     height: 700px;
 }
+
+#label{
+    font-size:40px;
+}
